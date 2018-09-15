@@ -1,0 +1,9 @@
+C:\Users\Nico\source\repos\hakke\hakke\bin\Release\hakke.exe.config
+C:\Users\Nico\source\repos\hakke\hakke\bin\Release\hakke.exe
+C:\Users\Nico\source\repos\hakke\hakke\bin\Release\hakke.pdb
+C:\Users\Nico\source\repos\hakke\hakke\bin\Release\hakkePluginInterface.dll
+C:\Users\Nico\source\repos\hakke\hakke\bin\Release\hakkePluginInterface.pdb
+C:\Users\Nico\source\repos\hakke\hakke\obj\Release\hakke.csproj.CoreCompileInputs.cache
+C:\Users\Nico\source\repos\hakke\hakke\obj\Release\hakke.csproj.CopyComplete
+C:\Users\Nico\source\repos\hakke\hakke\obj\Release\hakke.exe
+C:\Users\Nico\source\repos\hakke\hakke\obj\Release\hakke.pdb
